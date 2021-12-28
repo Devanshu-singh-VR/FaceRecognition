@@ -1,5 +1,7 @@
 # FaceRecognition
 
+Find the dataset from here -> https://www.kaggle.com/devanshusingh/tripletloss
+
 Results form binary classification..
 
 ![1](https://user-images.githubusercontent.com/75822824/147562933-6cd167f5-a041-48eb-9ed8-3b227b637907.png)
