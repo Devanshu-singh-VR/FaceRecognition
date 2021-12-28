@@ -1,5 +1,10 @@
 # FaceRecognition
 
+This Repositry contains code for 3 algorithms for face recognition.
+1. Binary Classification 
+2. Contrastive Loss
+3. Triplet Loss
+
 Find the dataset from here -> https://www.kaggle.com/devanshusingh/tripletloss
 
 Results form binary classification..
