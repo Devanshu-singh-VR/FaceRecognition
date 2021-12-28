@@ -1,6 +1,6 @@
 # FaceRecognition
 
-This Repositry contains code for 3 algorithms for face recognition.
+This Repositry contain codes of 3 algorithms for face recognition.
 1. Binary Classification 
 2. Contrastive Loss
 3. Triplet Loss
