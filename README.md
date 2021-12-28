@@ -1,4 +1,4 @@
-# FaceRecognition
+# FaceRecognition (One Shot Learning)
 
 This Repository contains codes for face recognition. 
 
