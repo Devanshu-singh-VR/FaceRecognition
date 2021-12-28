@@ -2,7 +2,7 @@
 
 This Repository contains codes for face recognition. 
 
-Three algorithms are used:
+Three algorithms has used:
 1. Binary Classification 
 2. Contrastive Loss
 3. Triplet Loss
