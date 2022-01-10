@@ -9,7 +9,7 @@ Three algorithms has used:
 
 Find the dataset from here -> https://www.kaggle.com/devanshusingh/tripletloss
 
-Results form binary classification..
+Results form binary classification on test data.
 
 ![1](https://user-images.githubusercontent.com/75822824/147562933-6cd167f5-a041-48eb-9ed8-3b227b637907.png)
 ![2](https://user-images.githubusercontent.com/75822824/147562936-4b7b993d-3152-477b-800e-05067e1cdbef.png)
